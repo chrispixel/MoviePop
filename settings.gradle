@@ -1,0 +1,3 @@
+include ':app'
+include ':utility'
+project(':utility').projectDir = new File('/Users/Chris/AndroidStudioProjects/Utility/library')

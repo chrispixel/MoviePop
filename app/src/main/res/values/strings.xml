@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movie Pop</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort_label">Sort</string>
+    <string name="title_activity_detail">Movie Detail</string>
+</resources>
